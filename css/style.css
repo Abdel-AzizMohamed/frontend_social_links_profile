@@ -48,7 +48,7 @@ body {
     align-items: center;
 }
 
-.container .card .card-info h2 {
+.container .card .card-info h1 {
     text-transform: capitalize;
     color: var(--light-main);
     font-weight: 600;
